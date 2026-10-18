@@ -63,10 +63,7 @@ Czynności te wykonujemy na maszynie klienckiej (Windows 11):
 3. Zmień nazwę komputera na taką, jaką utworzyłeś wcześniej w AD DS (np. `PC01`).
 4. W sekcji *Członkostwo* zaznacz **Domena** i wpisz nazwę domeny (np. `1et01.local`).
 5. Kliknij **OK**.
-6. System poprosi o podanie poświadczeń uprawniających do przyłączenia. Wpisz nazwę konta (np. `Administrator`) i hasło administratora domeny (np. `P@ssw0rd`).
-
-![Podawanie poświadczeń dołączenia do domeny](./screeny/03_poswiadczenia_domeny.png)
-
+6. System może poprosić o podanie poświadczeń uprawniających do przyłączenia. W takim wypadku wpisz nazwę konta (np. `Administrator`) i hasło administratora domeny (np. `P@ssw0rd`).
 7. Powinien pojawić się komunikat "Witamy w domenie...". Kliknij **OK** we wszystkich oknach i uruchom ponownie komputer klienta poprzez naciśnięcie przycisku "Uruchom ponownie teraz"
 
 ### Krok 3: Logowanie i weryfikacja
