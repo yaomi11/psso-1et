@@ -20,7 +20,7 @@
 2. Rozwiń drzewo swojej domeny (np. `1et01.local`).
 3. Zaznacz kontener **Users**, kliknij go prawym przyciskiem myszy i wybierz **Nowy** -> **Użytkownik**.
 4. Wypełnij podstawowe dane (Imię, Nazwisko, Inicjały) oraz określ **Nazwę logowania użytkownika** (np. `mluty`). Kliknij **Dalej**. (dla przykładu Marek Luty)
-5. Wpisz silne hasło (np. `zaq1@WSX`). W celach edukacyjnych możesz odznaczyć *Użytkownik musi zmienić hasło...* i zaznaczyć *Hasło nigdy nie wygasa*.
+5. Wpisz silne hasło (np. `zaq1@WSX`). W celach edukacyjnych możesz odznaczyć *Użytkownik musi zmienić hasło przy następnym logowaniu*.
 6. Kliknij **Dalej**, sprawdź podsumowanie i wybierz **Zakończ**.
 
 ![Tworzenie nowego konta użytkownika w AD](./screeny/01_nowy_uzytkownik.png)
