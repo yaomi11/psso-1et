@@ -26,10 +26,10 @@ Odnajdywanie sieci pozwala urządzeniom na wzajemne wykrywanie się. Wykonaj te 
 jednak zapisywane, to należy sprawdzić, czy uruchomiono następujące usługi
 zależności:
 
-• Klient DNS
-• Publikacja zasobu odnajdywania funkcji
-• Odnajdywanie SSDP (Usługa odnajdowania SSDP)
-• Host urządzenia UPnP
+- Klient DNS
+- Publikacja zasobu odnajdywania funkcji
+- Odnajdywanie SSDP (Usługa odnajdowania SSDP)
+- Host urządzenia UPnP
 
 7. W oknie wyszukiwania wpisz usługi i kliknij
 znalezioną aplikację.
