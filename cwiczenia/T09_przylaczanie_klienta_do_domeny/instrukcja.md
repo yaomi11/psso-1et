@@ -16,7 +16,7 @@
 ### Krok 1: Włączenie odnajdowania sieci
 Odnajdywanie sieci pozwala urządzeniom na wzajemne wykrywanie się. Wykonaj te kroki na obu maszynach (Serwerze i Kliencie):
 1. Otwórz menu Start i wejdź w **Ustawienia**.
-2. Wybierz **Sieć i Internet**, a następnie w sekcji *Status* kliknij **Opcje udostępniania**.
+2. Wybierz **Sieć i Internet**, **Zaawansowane ustawienia sieci**, a następnie w sekcji *Status* kliknij **Opcje udostępniania**.
 3. Rozwiń profil **Domena (obecny profil)**.
 4. Zaznacz opcje:
    * **Włącz odnajdowanie sieci**
