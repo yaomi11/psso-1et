@@ -44,5 +44,5 @@ Aby stacja robocza działała płynnie i obsługiwała pełny ekran, należy doi
 
 ---
 
-## 4. Sprawdzenie wiedzy / Zadanie utrwalające
+## 4. Sprawdzenie działania
 1. Sprawdź, czy po instalacji dodatków gościa i restarcie systemu rozdzielczość ekranu maszyny wirtualnej automatycznie dostosowuje się do rozmiaru okna programu VirtualBox (spróbuj zmienić rozmiar okna myszką).
