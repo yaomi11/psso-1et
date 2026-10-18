@@ -46,7 +46,7 @@ W sekcji **Serwer lokalny** masz możliwość konfiguracji kluczowych ustawień,
 ### Krok 4: Dodanie na pulpit ikony Ten komputer
 Aby ułatwić zarządzanie plikami, warto wyciągnąć podstawowe ikony na pulpit.
 1. Naciśnij kombinację przycisków Windows + R
-2. Wpisz tą komendę: 'desk.cpl ,5' 
+2. Wpisz tą komendę: "desk.cpl ,5"
 3. Zaznacz pole **Komputer** i zatwierdź klikając **Zastosuj** i **OK**.
 
 ![Wyciągnięcie ikony Ten Komputer na pulpit](./screeny/06_ikona_pulpit.png)
