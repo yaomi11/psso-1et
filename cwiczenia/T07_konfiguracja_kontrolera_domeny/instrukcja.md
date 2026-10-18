@@ -31,7 +31,7 @@ Po zainstalowaniu ról Menedżer serwera poinformuje o konieczności dokończeni
 ![Wybór operacji wdrażania - nowy las](./screeny/02_konfiguracja_wdrazania.png)
 
 ### Krok 3: Opcje kontrolera domeny
-1. Upewnij się, że poziom funkcjonalności lasu i domeny jest ustawiony poprawnie (np. na Windows Server 2016).
+1. Upewnij się, że poziom funkcjonalności lasu i domeny jest ustawiony poprawnie (np. na Windows Server 2025).
 2. Sprawdź, czy zaznaczone są opcje **Serwer DNS** oraz **Wykaz globalny** (wymagane dla pierwszego kontrolera w lesie).
 3. W sekcji hasła DSRM (Tryb przywracania usług katalogowych) wpisz silne hasło zgodnie z poleceniami prowadzącego (np. `P@ssw0rd`). 
 4. Kliknij **Dalej**.
