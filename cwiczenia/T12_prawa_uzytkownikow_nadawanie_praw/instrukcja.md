@@ -36,15 +36,10 @@ Zamiast nadawać uprawnienia każdemu użytkownikowi z osobna, najefektywniej je
 6. Na liście *Członek grupy* pojawią się wbudowane grupy zabezpieczeń. Od tej chwili wszyscy użytkownicy należący do grupy `etat` będą automatycznie dziedziczyć uprawnienia z grup `Użytkownicy` / `Użytkownicy domeny`. 
 7. Kliknij **Zastosuj** i **OK**.
 
-![Podpinanie grupy etat do grupy Użytkownicy domeny](./screeny/02_dziedziczenie_grup.png)
-
-
 ### Krok 3: Tworzenie konta użytkownika 
 1. Kliknij prawym przyciskiem myszy jednostkę **Nauczyciele**, wybierz **Nowy** -> **Użytkownik**.
 2. Wpisz dane (np. Imię: `Mikołaj`, Nazwisko: `Kopernik`, logowanie: `mkopernik`). Kliknij **Dalej**.
 3. Ustaw bezpieczne hasło (np. `P@ssw0rd`) i wybierz opcję *Użytkownik musi zmienić hasło przy następnym logowaniu*. Kliknij **Zakończ**.
-
-![Tworzenie nowego użytkownika Mikołaj Kopernik](./screeny/03_nowy_uzytkownik_mk.png)
 
 ### Krok 4: Dodawanie użytkownika do grupy
 Istnieje kilka sposobów na dodanie użytkownika do grupy, najszybszy z nich to:
@@ -54,9 +49,4 @@ Istnieje kilka sposobów na dodanie użytkownika do grupy, najszybszy z nich to:
 4. Kliknij **OK**. Otrzymasz komunikat o pomyślnym dodaniu do grupy.
    *Weryfikacja: Możesz otworzyć Właściwości użytkownika -> zakładka Członek grupy, aby upewnić się, że należy on do grupy etat.*
 
-![Dodawanie użytkownika do grupy z menu kontekstowego](./screeny/04_dodaj_do_grupy.png)
-
 Zarządzanie uprawnieniami w rozbudowanej domenie staje się znacznie prostsze, gdy zastosujemy mechanizm łączenia grup. Wystarczy dodać węższą grupę (np. „Etat”) do szerszej (np. „Użytkownicy domeny”), aby jej członkowie automatycznie przejęli przypisane tam uprawnienia. W ten sposób budujemy wygodną, kaskadową hierarchię. Należy jednak uważać – taki system nie sprawdzi się w każdej sytuacji i zależy od wewnętrznych ustaleń. Choć każdy błąd w nadawaniu uprawnień można cofnąć, to bez dokładnego rozplanowania struktury już na samym starcie, bardzo łatwo się w niej później pogubić.
-
-Ćwiczenie:
-Przypisz grupę etat do grupy Użytkownicy domeny.Przypisz grupę etat do grupy Użytkownicy domeny.
