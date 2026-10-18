@@ -41,8 +41,6 @@ Jednostki organizacyjne to kontenery pozwalające zachować porządek w AD.
 3. Aby przenieść jednostkę `Sala` do wnętrza `Pracownia`, zaznacz `Sala`, kliknij PPM i wybierz **Przenieś...**, a następnie wskaż `Pracownia`.
    * **Uwaga:** Jeśli system odmówi dostępu, przejdź do górnego menu **Widok** -> zaznacz **Opcje zaawansowane**. Następnie wejdź we **Właściwości** obiektu `Sala`, otwórz zakładkę **Obiekt** i **odznacz** opcję *Chroń obiekt przed przypadkowym usunięciem*. 
 
-![Zdejmowanie ochrony przed przypadkowym usunięciem w opcjach zaawansowanych](./screeny/03_ochrona_obiektu.png)
-
 ---
 
 ### Część B: Zarządzanie z użyciem wiersza poleceń (PowerShell)
