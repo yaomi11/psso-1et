@@ -7,7 +7,7 @@
 ## 2. Środowisko i wymagania wstępne
 * **Oprogramowanie:** Oracle VirtualBox.
 * **Systemy operacyjne:** Windows Server 2025 / Windows 11.
-* **Stan początkowy:** Opis konfiguracji maszyny wirtualnej przed rozpoczęciem zadania (np. adresacja IP, przynależność do domeny `grabek.local`).
+* **Stan początkowy:** Opis konfiguracji maszyny wirtualnej przed rozpoczęciem zadania (np. adresacja IP, przynależność do domeny np. `1et15.local`).
 
 ## 3. Instrukcja krok po kroku
 
