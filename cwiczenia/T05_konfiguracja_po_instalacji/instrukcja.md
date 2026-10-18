@@ -48,5 +48,3 @@ Aby ułatwić zarządzanie plikami, warto wyciągnąć podstawowe ikony na pulpi
 1. Naciśnij kombinację przycisków Windows + R
 2. Wpisz tą komendę: "desk.cpl ,5"
 3. Zaznacz pole **Komputer** i zatwierdź klikając **Zastosuj** i **OK**.
-
-![Wyciągnięcie ikony Ten Komputer na pulpit](./screeny/06_ikona_pulpit.png)
