@@ -48,13 +48,7 @@ Zamiast przypisywać 10 użytkowników pojedynczo do drukarki, należy:
 3. W oknie wyboru kliknij **Zaawansowane...**, a następnie **Znajdź teraz**.
 4. Z listy wyników na dole wybierz wybranego użytkownika (np. Marka) i zatwierdź **OK**.
 5. Użytkownik pojawi się na liście członków grupy. Kliknij **Zastosuj** i **OK**.
-6. Sprawdzamy w kontenerze Users, czy nasza grupa została utworzona.
-7. Dodamy teraz użytkownika do grupy Klasa 1. Zaznaczamy grupę i prawym przyciskiem myszy wybieramy "Właściwości".
-8. Przechodzimy na zakładkę Członkowie. Klikając "Dodaj" możemy uczynić dane obiekty członkami tej grupy.
-9. W kolejnym oknie wybieramy przycisk "Zaawansowane".
-10. W okienko "Rozpoczyna się od" wpisujemy nazwę użytkownika, którego chcemy dodać do grupy, klikamy "Znajdź teraz". Wybieramy interesujący nas obiekt i klikamy OK.
-11. Jeśli wszystko się zgadza klikamy jeszcze raz OK.
-12. Zobaczymy, że obiekt Marek Luty został członkiem grupy Klasa 1. Klikamy na "Zastosuj" i "OK".
+6. Zobaczymy, że obiekt Marek Luty został członkiem grupy Klasa 1. Klikamy na "Zastosuj" i "OK".
 
 ![Dodawanie członka do grupy](./screeny/02_dodawanie_czlonkow.png)
 
