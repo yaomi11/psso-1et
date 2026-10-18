@@ -19,7 +19,7 @@
 1. Z górnego menu **Menedżera serwera** wybierz **Narzędzia** -> **Użytkownicy i komputery usługi Active Directory** (alternatywnie `Win + R` -> `dsa.msc`).
 2. Rozwiń drzewo swojej domeny (np. `1et01.local`).
 3. Zaznacz kontener **Users**, kliknij go prawym przyciskiem myszy i wybierz **Nowy** -> **Użytkownik**.
-4. Wypełnij podstawowe dane (Imię, Nazwisko, Inicjały) oraz określ **Nazwę logowania użytkownika** (np. `mluty`). Kliknij **Dalej**.
+4. Wypełnij podstawowe dane (Imię, Nazwisko, Inicjały) oraz określ **Nazwę logowania użytkownika** (np. `mluty`). Kliknij **Dalej**. (dla przykładu Marek Luty)
 5. Wpisz silne hasło (np. `zaq1@WSX`). W celach edukacyjnych możesz odznaczyć *Użytkownik musi zmienić hasło...* i zaznaczyć *Hasło nigdy nie wygasa*.
 6. Kliknij **Dalej**, sprawdź podsumowanie i wybierz **Zakończ**.
 
