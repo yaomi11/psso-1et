@@ -30,15 +30,7 @@ W sekcji **Serwer lokalny** masz możliwość konfiguracji kluczowych ustawień,
 
 ![Ustawienie nowej nazwy i restart](./screeny/03_restart.png)
 
-### Krok 3: Konfiguracja usługi Windows Update
-1. Po restarcie, w Menedżerze Serwera (`Serwer lokalny`) odszukaj pole **Windows Update**.
-2. Jeśli widnieje obok status *Nigdy* lub *Pobierz tylko aktualizacje...*, kliknij w ten napis.
-3. W oknie Ustawień kliknij **Sprawdź aktualizacje**.
-4. Jeśli dostępne są niezbędne aktualizacje zabezpieczeń lub komponentów, system je pobierze i zainstaluje. Jeśli będzie wymagany restart, zrób to.
-
-![Wymuszanie sprawdzenia aktualizacji](./screeny/04_windows_update.png)
-
-### Krok 4: Weryfikacja i zmiana nazw kart sieciowych
+### Krok 3: Weryfikacja i zmiana nazw kart sieciowych
 1. Wyłącz całkowicie maszynę wirtualną i przejdź do okna programu **VirtualBox**.
 2. W ustawieniach maszyny (zakładka **Sieć**) upewnij się, że:
    * **Karta 1** ustawiona jest na **NAT**.
@@ -51,7 +43,7 @@ W sekcji **Serwer lokalny** masz możliwość konfiguracji kluczowych ustawień,
 
 ![Zmiana nazw interfejsów sieciowych na WAN i LAN](./screeny/05_wan_lan.png)
 
-### Krok 5: Dodanie na pulpit ikony Ten komputer
+### Krok 4: Dodanie na pulpit ikony Ten komputer
 Aby ułatwić zarządzanie plikami, warto wyciągnąć podstawowe ikony na pulpit.
 1. Kliknij prawym przyciskiem myszy w pustym miejscu na Pulpicie i wybierz **Personalizuj**.
 2. Z lewego menu wybierz **Kompozycje**.
