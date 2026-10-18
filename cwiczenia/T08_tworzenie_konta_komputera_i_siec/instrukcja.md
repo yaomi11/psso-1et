@@ -56,5 +56,5 @@ Przetestujemy teraz, czy maszyny widzą się nawzajem.
 5. W lewym panelu kliknij Reguły przychodzące.
 6. Odszukaj na liście regułę o nazwie: "Udostępnianie plików i drukarek (żądanie echa — ruch przychodzący ICMPv4)" (Może być ich kilka, dla profili domena/prywatny/publiczny).
 7. Zaznacz je, kliknij prawym przyciskiem myszy i wybierz Włącz regułę. Z ikon zniknie "szary znaczek" i staną się zielone.
-8. Wróć na serwer i ponów polecenie ping 192.168.10.2. Powinieneś teraz otrzymać odpowiedź z podanym czasem (np. time<1ms).
-9. 
+8. Poczekaj chwilę na zastosowanie zmian
+9. Wróć na serwer i ponów polecenie ping 192.168.10.2. Powinieneś teraz otrzymać odpowiedź z podanym czasem (np. time<1ms).
